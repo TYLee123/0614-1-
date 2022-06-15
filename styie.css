@@ -382,3 +382,23 @@ body {
 	background-color: #F9FCD4;
 	height: 80px;
 }
+.container footer {
+    background-color: #E8E8E8;
+    padding-bottom: 11px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+.container footer h4 {
+    margin-left: 19px;
+    margin-bottom: -3px;
+    padding-top: 15px;
+}
+ul li a {
+    color: #314436;
+    text-decoration: none;
+}
+ul li a:link {
+    color: #314436;
+}
+ul li a:hover {
+}
